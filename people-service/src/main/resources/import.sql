@@ -1,0 +1,3 @@
+INSERT INTO tb_pessoa (nome, cpf, data_nascimento, logradouro, numero, complemento, bairro, cidade, estado, cep) VALUES ('João Silva', '86625741060', '2000-04-06', 'Avenida Paulsta', '100', 'Apto 182C', 'Bela Vista', 'São Paulo', 'SP', '01310930');
+INSERT INTO tb_pessoa (nome, cpf, data_nascimento, logradouro, numero, complemento, bairro, cidade, estado, cep) VALUES ('Benedita Cláudia Assunção', '93163364578', '1966-03-15', 'Rua Henrique Abiatti', '478', 'Apto 155', 'Nossa Senhora das Dores', 'Santa Maria', 'RS', '97095220');
+INSERT INTO tb_pessoa (nome, cpf, data_nascimento, logradouro, numero, complemento, bairro, cidade, estado, cep) VALUES ('Kevin Erick', '76391175853', '1954-04-01', 'Rua da Alfândega', '536', null, 'Nova Bethânia', 'Viana', 'ES', '29138037');

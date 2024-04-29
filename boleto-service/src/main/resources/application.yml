@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: boleto-service
+    jpa:
+        open-in-view: false
+    profiles:
+        active: test
